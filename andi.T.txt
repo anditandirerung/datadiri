@@ -1,0 +1,3 @@
+nama: andi
+kelas: tekom A
+nim: 1829141019
